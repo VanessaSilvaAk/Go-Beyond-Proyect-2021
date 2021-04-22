@@ -1,0 +1,74 @@
+{
+"data": [{
+    "productId": 1,
+    "productName": "ZAPATO FLOTADOR NEGRO",
+    "stars": 1,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-1.png",
+    "listPrice": null,
+    "price": 25990
+}, {
+    "productId": 2,
+    "productName": "SANDALIA LINO MARRON",
+    "stars": 4,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-2.png",
+    "listPrice": 29900,
+    "price": 19900
+}, {
+    "productId": 3,
+    "productName": "BOTA MUSTANG",
+    "stars": 2,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-3.png",
+    "listPrice": 32900,
+    "price": 29900
+}, {
+    "productId": 4,
+    "productName": "CINTURON SEMICROMO NEGRO",
+    "stars": 3,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-4.png",
+    "listPrice": null,
+    "price": 7990
+},{
+    "productId": 1,
+    "productName": "ZAPATO FLOTADOR NEGRO",
+    "stars": 1,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-1.png",
+    "listPrice": null,
+    "price": 25990
+},{
+    "productId": 2,
+    "productName": "SANDALIA LINO MARRON",
+    "stars": 4,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-2.png",
+    "listPrice": 29900,
+    "price": 19900
+},{
+    "productId": 3,
+    "productName": "BOTA MUSTANG",
+    "stars": 2,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-3.png",
+    "listPrice": 32900,
+    "price": 29900
+},{
+    "productId": 4,
+    "productName": "CINTURON SEMICROMO NEGRO",
+    "stars": 3,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-4.png",
+    "listPrice": null,
+    "price": 7990
+},{
+    "productId": 1,
+    "productName": "ZAPATO FLOTADOR NEGRO",
+    "stars": 1,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-1.png",
+    "listPrice": null,
+    "price": 25990
+}, {
+    "productId": 2,
+    "productName": "SANDALIA LINO MARRON",
+    "stars": 4,
+    "imageUrl": "https://corebiz-test.herokuapp.com/images/product-2.png",
+    "listPrice": 29900,
+    "price": 19900
+}]
+}
+
